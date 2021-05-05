@@ -1,0 +1,13 @@
+{
+  "commandLine": [
+    "../fdroidserver/fdroid update"
+  ],
+  "fdroidserver": {
+    "commitId": "d5464fab348c56beaf1f4f354ef8d609cf009f87",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": []
+  },
+  "startTimestamp": 1620229358000,
+  "subcommand": "update"
+}
